@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Reto Colaborativo</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="hint_user">Usuario (emilys)</string>
+    <string name="hint_password">Contraseña (emilyspass)</string>
+    <string name="btn_login">Entrar</string>
+    <string name="loading_text">Cargando…</string>
+    <string name="btn_logout">Cerrar sesión</string>
 </resources>
