@@ -6,4 +6,6 @@
     <string name="btn_login">Entrar</string>
     <string name="loading_text">Cargando…</string>
     <string name="btn_logout">Cerrar sesión</string>
+    <string name="welcome_message">¡Bienvenido, %1$s!</string>
+    <string name="user_email">Correo: %1$s</string>
 </resources>
